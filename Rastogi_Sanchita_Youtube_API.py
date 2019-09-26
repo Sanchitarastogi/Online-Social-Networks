@@ -26,7 +26,7 @@ import pandas as pd # need for read, manipulation and analysis
 import numpy as np  # need for mathematical function
 
 # put your API key into the API_KEY field below, in quotes
-API_KEY = "AIzaSyAifI_ufo4wkQviBJXffhxqSCQ8wg_WiU4"
+API_KEY = ""
 
 API_NAME = "youtube"
 API_VERSION = "v3"       # this should be the latest version
