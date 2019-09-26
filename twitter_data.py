@@ -35,10 +35,10 @@ import pandas as pd         # need for read, manipulation and analysis
 import numpy as np          # need for mathematical function
 
 ### PUT AUTHENTICATOIN KEYS HERE ###
-CONSUMER_KEY = "HZvfikhnmNRVu52iAEOA1CYWp"
-CONSUMER_KEY_SECRET = "ctwYPpRYSmjzrIsLiZcsYSBDgJ9KqP3bwbttKe6L2OhaBM0QF7"
-ACCESS_TOKEN = "1158576462196355073-CPRakRAlM22i8pQKgFKjnSfVHWOY7W"
-ACCESS_TOKEN_SECRET = "4NjZkGgyuWGl1ggEBtWMlddiW0HYfPbwz8SQTo81KIeYE"
+CONSUMER_KEY = ""
+CONSUMER_KEY_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 # AUTHENTICATION (OAuth)
 authenticate = tweepy.auth.OAuthHandler(CONSUMER_KEY, CONSUMER_KEY_SECRET)
